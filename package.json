@@ -4,8 +4,7 @@
   "description": "country test",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "prod": "parcel build src/index.html"
+    "dev": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
