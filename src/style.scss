@@ -1,0 +1,35 @@
+p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+body {
+  background-color: #343a40 !important;
+  color: whitesmoke !important;
+  a {
+    color: white !important;
+    font-weight: bold !important;
+  }
+}
+h1 {
+  color: #1b1b1b !important;
+}
+#game {
+  img {
+    width: 230px;
+    height: 230px;
+    margin: 3%;
+  }
+  input {
+    margin-top: 10%;
+  }
+  #time {
+    margin-top: 5%;
+  }
+  #scorenumber {
+    color: rgb(228, 228, 82);
+  }
+  #timeseconds {
+    color: rgb(207, 44, 44);
+  }
+}

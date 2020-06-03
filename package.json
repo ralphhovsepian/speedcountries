@@ -1,0 +1,22 @@
+{
+  "name": "speedcountries",
+  "version": "1.0.0",
+  "description": "country test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "speedcountries"
+  },
+  "author": "ralph",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "regenerator-runtime": "^0.13.5"
+  }
+}

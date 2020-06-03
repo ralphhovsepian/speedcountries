@@ -1,0 +1,41 @@
+p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+body {
+  background-color: #343a40 !important;
+  color: whitesmoke !important;
+}
+
+body a {
+  color: white !important;
+  font-weight: bold !important;
+}
+
+h1 {
+  color: #1b1b1b !important;
+}
+
+#game img {
+  width: 230px;
+  height: 230px;
+  margin: 3%;
+}
+
+#game input {
+  margin-top: 10%;
+}
+
+#game #time {
+  margin-top: 5%;
+}
+
+#game #scorenumber {
+  color: #e4e452;
+}
+
+#game #timeseconds {
+  color: #cf2c2c;
+}
+/*# sourceMappingURL=style.css.map */
